@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+
+  <p>This Privacy Policy describes how information is collected, used, and shared when you use our application.</p>
+
+  <h2>Information We Collect</h2>
+  <p>We only collect information necessary to provide our services, including webhook event data.</p>
+
+  <h2>How We Use Information</h2>
+  <p>Information is used solely to process messages and automate responses.</p>
+
+  <h2>Data Sharing</h2>
+  <p>We do not sell or share personal data with third parties.</p>
+
+  <h2>Data Retention</h2>
+  <p>Data is stored only for operational and debugging purposes.</p>
+
+  <h2>Contact</h2>
+  <p>Email: karlfreeks@gmail.com</p>
+</body>
+</html>
